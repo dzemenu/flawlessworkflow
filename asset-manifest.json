@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flawlessworkflow/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/flawlessworkflow/static/js/main.61a92598.chunk.js",
+    "main.js.map": "/flawlessworkflow/static/js/main.61a92598.chunk.js.map",
+    "runtime-main.js": "/flawlessworkflow/static/js/runtime-main.f6ff69a5.js",
+    "runtime-main.js.map": "/flawlessworkflow/static/js/runtime-main.f6ff69a5.js.map",
+    "static/js/2.118c83b0.chunk.js": "/flawlessworkflow/static/js/2.118c83b0.chunk.js",
+    "static/js/2.118c83b0.chunk.js.map": "/flawlessworkflow/static/js/2.118c83b0.chunk.js.map",
+    "index.html": "/flawlessworkflow/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/flawlessworkflow/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.118c83b0.chunk.js.LICENSE.txt": "/flawlessworkflow/static/js/2.118c83b0.chunk.js.LICENSE.txt",
+    "static/media/Task.e8586231.png": "/flawlessworkflow/static/media/Task.e8586231.png",
+    "static/media/ceo.366dbeb3.png": "/flawlessworkflow/static/media/ceo.366dbeb3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6ff69a5.js",
+    "static/js/2.118c83b0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.61a92598.chunk.js"
+  ]
+}
