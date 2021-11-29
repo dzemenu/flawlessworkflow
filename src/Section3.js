@@ -31,7 +31,8 @@ const Section3 = () => {
 export default Section3
 const Container=styled.div`
 display:flex;
-width:100%auto;
+width:100%;
+margin-left:50px ;
 justify-content:space-between;
 h1{
     font-size:20px;

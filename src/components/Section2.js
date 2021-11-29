@@ -16,7 +16,7 @@ const Container=styled.div`
 display:flex;
 justify-content:center;
 flex-direction:column;
-align-items:center;
+align-items:center;margin-left:50px ;
 h1{
     font-size:2.4rem;
     align-items:center;
