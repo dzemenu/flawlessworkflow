@@ -17,6 +17,8 @@ display:flex;
 justify-content:center;
 flex-direction:column;
 align-items:center;margin-left:50px ;
+@media(max-width: 768px) {flex-direction: column;};
+
 h1{
     font-size:2.4rem;
     align-items:center;

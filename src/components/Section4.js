@@ -39,6 +39,8 @@ export default Section4;
 const Container = styled.div`
   border-top: 20px solid #ff5f03;
   border-bottom: 20px solid #ff5f03;
+  @media(max-width: 768px) {flex-direction: column;};
+
   display: flex;
   width: 100%;
   justify-content: space-between;

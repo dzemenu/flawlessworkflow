@@ -42,6 +42,8 @@ margin-top:20px;
   background-color: #efefef;
   display: flex;
   width: 100%;
+  @media(max-width: 768px) {flex-direction: column;};
+
   vl {
     border: 0;
   margin: 0;
