@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-import automation from './assets/images/automation.png'
-import goreth from './assets/images/Groeth.png'
-import task from './assets/images/Task.png'
+import automation from '../assets/images/automation.png'
+import goreth from '../assets/images/Groeth.png'
+import task from '../assets/images/Task.png'
 const Section3 = () => {
     return (
         <Container>
@@ -34,6 +34,8 @@ display:flex;
 width:100%;
 margin-left:50px ;
 justify-content:space-between;
+@media(max-width: 768px) {flex-direction: column;};
+
 h1{
     font-size:20px;
 };
