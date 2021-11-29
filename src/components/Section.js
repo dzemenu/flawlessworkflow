@@ -69,6 +69,7 @@ margin-top:60px;
   height: 100vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url(${ceo});
   background-color:black;
+  @media(max-width: 768px) {flex-direction: column;};
   //opacity:0.5;
   background-repeat: no-repeat;
   background-size: cover;

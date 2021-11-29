@@ -42,6 +42,7 @@ const Container = styled.div`
   right: 0;
   left: 0;
   z-index: 1;
+ @media(max-width: 768px) {flex-direction: column;}
  // box-shadow: 5px 4px #888888;`;
 const Menu = styled.div`
   display: flex;
@@ -57,6 +58,8 @@ img{
 const RightMenu=styled.div`
 display: flex;
   align-items: center;
+  
+@media(max-width: 768px) {flex-direction: column;}
   h3 {
     padding: 0 10px;
     text-transform: uppercase;
